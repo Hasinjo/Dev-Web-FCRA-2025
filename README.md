@@ -1,2 +1,4 @@
 # Dev-Web-FCRA-2025
-Javascript HTML CSS
+Formation en Informatique 
+Développement Web avec HTML-CSS-JAVASCRIPT
+FCRA  2025
