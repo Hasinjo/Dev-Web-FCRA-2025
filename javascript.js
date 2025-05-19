@@ -15,5 +15,7 @@
 //}
 //entrer();
 function bonjour(){
-    alert("SALAMA");
+    const name=document.getElementById("nom");
+    let name2=name.value;
+    console.log(name2); 
 }
