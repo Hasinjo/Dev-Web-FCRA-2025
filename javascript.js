@@ -14,8 +14,19 @@
 
 //}
 //entrer();
-function bonjour(){
-    const name=document.getElementById("nom");
-    let name2=name.value;
-    console.log(name2); 
+//function bonjour(){
+//    const name=document.getElementById("nom");
+//    let name2=name.value;
+//    console.log(name2); 
+//}
+
+function addition(){
+const nb1=parseFloat(document.getElementById("entrer1").value);
+console.log(nb1);
+const nb2=parseFloat( document.getElementById("entrer2").value );
+console.log(nb2);
+const somme=nb1+nb2;
+console.log(somme);
+document.getElementById("resultat").innerText=somme;
 }
+
